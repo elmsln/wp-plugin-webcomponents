@@ -3,14 +3,14 @@ include_once 'WebComponentsService.php';
 define('WP_WEBCOMPONENTS_LOCATION', '/wp-content/webcomponents/');
 /**
  * @package Web components
- * @version 0.0.1
+ * @version 0.0.2
  */
 /*
 Plugin Name: Web components
 Plugin URI: http://github.com/elmsln/wordpress_webcomponents
 Description: Web components integration and normalization in a theme agnostic way
 Author: Bryan Ollendyke
-Version: 0.0.1
+Version: 0.0.2
 Author URI: https://www.elmsln.org/
 */
 
