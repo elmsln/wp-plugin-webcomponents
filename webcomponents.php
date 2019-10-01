@@ -1,18 +1,19 @@
 <?php
-include_once 'WebComponentsService.php';
-define('WP_WEBCOMPONENTS_LOCATION', 'https://webcomponents.psu.edu/cdn/');
 /**
  * @package Webcomponents
- * @version 3.1.0
+ * @version 3.1.3
  */
 /*
 Plugin Name: Webcomponents
 Plugin URI: https://github.com/elmsln/wp-plugin-webcomponents
 Description: Web components integration and normalization in a theme/system agnostic way
 Author: Bryan Ollendyke
-Version: 3.1.0
+Version: 3.1.3
 Author URI: https://haxtheweb.org/
 */
+
+include_once 'WebComponentsService.php';
+define('WP_WEBCOMPONENTS_LOCATION', 'https://webcomponents.psu.edu/cdn/');
 
 // Wire up web components to WordPress
 function webcomponents_deps() {
