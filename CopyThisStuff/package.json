@@ -49,7 +49,7 @@
   "resolutions": {
     "object-assign": "4.1.1",
     "commander": "2.19.0",
-    "readable-stream": "1.1.14",
+    "readable-stream": "3.6.0",
     "isarray": "1.0.0",
     "source-map": "0.5.7",
     "kind-of": "6.0.2",
