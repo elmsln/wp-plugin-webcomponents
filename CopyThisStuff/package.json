@@ -48,7 +48,7 @@
   },
   "resolutions": {
     "object-assign": "4.1.1",
-    "commander": "2.19.0",
+    "commander": "2.20.3",
     "readable-stream": "1.1.14",
     "isarray": "1.0.0",
     "source-map": "0.5.7",
