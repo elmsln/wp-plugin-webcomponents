@@ -43,7 +43,7 @@
     "@lrnwebcomponents/wave-player": "^3.0.0",
     "@lrnwebcomponents/wikipedia-query": "^3.0.0",
     "@lrnwebcomponents/wysiwyg-hax": "^3.0.0",
-    "@webcomponents/webcomponentsjs": "2.2.10",
+    "@webcomponents/webcomponentsjs": "2.8.0",
     "web-animations-js": "2.3.2"
   },
   "resolutions": {
